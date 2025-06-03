@@ -2,7 +2,7 @@
 ## **1. Persiapan Awal**
 ### **a. Membuka Ruangan**
 
-1. Buka pintu observatorium dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
+1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
 2. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
     - Amati kondisi sekitar untuk memastikan tidak ada hal yang tidak normal (bau terbakar, kabel terlepas, dll.).
@@ -101,14 +101,14 @@ Sebelum meninggalkan rumah teleskkop, **pastikan semua prosedur penutupan dilaku
     - Pastikan semua garis merah sejajar dan tidak ada benda di lintasan
     - Kunci kembali atap rumah teleskop
     
-7. **Periksa kembali seluruh kondisi ruang observatorium**:
+7. **Periksa kembali seluruh kondisi rumah teleskop**:
     - Tidak ada kabel tersisa terhubung
     - Semua alat dalam kondisi mati
     - Area bersih dan tertutup rapi
     
 
 ### **PENTING!**
-**Telah dipasang checklist penutupan di pintu dome.**
+**Telah dipasang checklist penutupan di pintu rumah teleskop.**
 Sebelum meninggalkan observatorium:
 - **Periksa satu per satu isi checklist tersebut.**
 - Pastikan setiap langkah telah dilakukan dan dicek.
