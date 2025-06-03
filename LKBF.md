@@ -65,7 +65,17 @@
 	- Power mount
 3. Nyalakan komputer pengendali.
 ## 4. Koneksi Kendali Jarak Jauh Komputer
-	Tentang Rust Desk
+Jika Anda perlu mengakses komputer pengendali dari jarak jauh:
+1. Pastikan komputer pengendali telah terhubung ke jaringan LAN dan internet.
+2. Gunakan perangkat Anda (laptop/PC) untuk membuka aplikasi RustDesk.
+3. Masukkan ID dan Password yang tercantum di logbook pengamatan.
+4. Setelah berhasil tersambung, Anda bisa mengoperasikan komputer pengendali secara penuh dari jarak jauh.
+
+
+### Catatan Keamanan:
+- Jangan membagikan ID dan password RustDesk ke pihak yang tidak berwenang.
+- Gunakan koneksi ini hanya untuk keperluan pemantauan dan pengoperasian perangkat lunak astronomi.
+
 ## **5. Menjalankan Perangkat Lunak**
 ### **a. PWI4**
 1. Buka perangkat lunak **PWI4**.
