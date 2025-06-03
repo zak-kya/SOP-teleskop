@@ -123,3 +123,5 @@ Sebelum meninggalkan observatorium:
 - **Periksa satu per satu isi checklist tersebut.**
 - Pastikan setiap langkah telah dilakukan dan dicek.
 - **Selalu bawa kunci rumah di tangan Anda sebelum menutup pintu!**
+
+Testing Zakky
