@@ -3,6 +3,7 @@
 ### **a. Membuka Ruangan**
 
 1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
+![Image](https://github.com/zak-kya/SOP-teleskop/blob/main/1748936753138.jpg)
 2. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
     - Amati kondisi sekitar untuk memastikan tidak ada hal yang tidak normal (bau terbakar, kabel terlepas, dll.).
@@ -123,5 +124,3 @@ Sebelum meninggalkan observatorium:
 - **Periksa satu per satu isi checklist tersebut.**
 - Pastikan setiap langkah telah dilakukan dan dicek.
 - **Selalu bawa kunci rumah di tangan Anda sebelum menutup pintu!**
-
-Testing Zakky
