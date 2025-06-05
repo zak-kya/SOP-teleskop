@@ -5,7 +5,8 @@
 
 1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
 ![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg)
-2. Periksa kondisi dalam ruangan:
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg" alt="Description" width="300"/>
+3. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
     - Amati kondisi sekitar untuk memastikan tidak ada hal yang tidak normal (bau terbakar, kabel terlepas, dll.).
 ### **b. Pengisian Logbook**
