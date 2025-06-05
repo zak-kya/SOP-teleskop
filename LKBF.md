@@ -1,9 +1,10 @@
+
 # **SOP Penggunaan Teleskop**
 ## **1. Persiapan Awal**
 ### **a. Membuka Ruangan**
 
 1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
-![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753138.jpg)
+![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg)
 2. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
     - Amati kondisi sekitar untuk memastikan tidak ada hal yang tidak normal (bau terbakar, kabel terlepas, dll.).
@@ -12,6 +13,8 @@
     - Tanggal
     - Nama pengguna
     - Waktu mulai aktivitas
+![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753560.jpg)
+![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753543.jpg)
 2. Baca entri terakhir dalam logbook:
     - Perhatikan catatan masalah sebelumnya, terutama terkait listrik atau perangkat.
     - Pastikan tidak ada kerusakan atau keganjilan sebelum memulai.
