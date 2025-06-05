@@ -4,7 +4,6 @@
 ### **a. Membuka Ruangan**
 
 1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
-![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg)
 <img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg" alt="Description" width="300"/>
 3. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
@@ -14,8 +13,12 @@
     - Tanggal
     - Nama pengguna
     - Waktu mulai aktivitas
-![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753560.jpg)
-![Image](https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753543.jpg)
+
+<p float="left">
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753560.jpg" alt="Description" height="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753543.jpg" alt="Description" height="400"/>
+</p>
+<span style="font-size:10px">Logbook (kiri) dan contoh isian logbook (kanan)</span>
 2. Baca entri terakhir dalam logbook:
     - Perhatikan catatan masalah sebelumnya, terutama terkait listrik atau perangkat.
     - Pastikan tidak ada kerusakan atau keganjilan sebelum memulai.
