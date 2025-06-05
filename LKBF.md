@@ -5,20 +5,32 @@
 
 1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
 <img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg" alt="Description" width="300"/>
-3. Periksa kondisi dalam ruangan:
+
+**Gambar 1.** Pengait pintu di bagian timur.
+
+2. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
     - Amati kondisi sekitar untuk memastikan tidak ada hal yang tidak normal (bau terbakar, kabel terlepas, dll.).
+
+<p float="left">
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753392.jpg" alt="Description" width="300"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753262.jpg" alt="Description" width="300"/>
+</p>
+
+**Gambar 2.** Bagian dalam dari rumah teleskop LKBF-ITB.
+
 ### **b. Pengisian Logbook**
 1. Segera setelah tiba, isi **logbook fisik** yang tersedia di meja:
     - Tanggal
     - Nama pengguna
     - Waktu mulai aktivitas
-
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753560.jpg" alt="Description" height="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753543.jpg" alt="Description" height="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753560.jpg" alt="Description" height="300"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753526.jpg" alt="Description" height="300"/>
 </p>
-<span style="font-size:10px">Logbook (kiri) dan contoh isian logbook (kanan)</span>
+
+**Gambar 3.** Logbook (kiri) dan contoh isian logbook (kanan)
+
 2. Baca entri terakhir dalam logbook:
     - Perhatikan catatan masalah sebelumnya, terutama terkait listrik atau perangkat.
     - Pastikan tidak ada kerusakan atau keganjilan sebelum memulai.
@@ -34,23 +46,46 @@
 ## **2. Persiapan Teleskop**
 ### **a. Membuka Penutup Teleskop**
 1. Lepaskan pengunci arah teleskop (altitude dan azimuth).
+<p float="left">
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753475.jpg" alt="Description" width="300"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753352.jpg" alt="Description" width="300"/>
+</p>
+
+**Gambar 4.** Pengunci sumbu gerak Altitude (kiri) dan Azimuth (kanan)
+
 2. Arahkan teleskop ke posisi **aman**:
     - **Altitude: 0°**, **Azimuth: 180°** (posisi mendatar ke selatan).
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753214.jpg" alt="Description" width="300"/>
+
+**Gambar 5.** Posisi teleskop mendatar ke selatan.
+
 3. Buka penutup bagian-bagian teleskop secara berurutan:
     - Cermin sekunder
     - Baffle (tabung pelindung cahaya)
     - Cermin primer
+<p float="left">
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753801.jpg" alt="Description" width="300"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753768.jpg" alt="Description" width="300"/>
+</p>
+
+**Gambar 6.** Penutup cermin sekunder (kiri), baffle, dan cermin primer (kanan).
+
 ### **b. Membuka Atap (Rumah Teleskop)**
 **‼ WAJIB dilakukan sebelum membuka atap:**
 1. **Cek kondisi cuaca terlebih dahulu** melalui situs cuaca lokal observatorium:
     🔗 [http://167.205.7.36](http://167.205.7.36)
+
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753214.jpg" alt="Description" width="300"/>
+
+**Gambar 7.** Tangkapan layar situs cuaca lokal observatorium Bosscha.
+
 2. **JANGAN membuka atap dalam kondisi berikut:**
     - **Hujan**
     - **Kabut tebal**
     - **Angin kencang** (lebih dari **25 km/jam**)
-3. **Jangan langsung membuka atap setelah hujan berhenti.**    
+4. **Jangan langsung membuka atap setelah hujan berhenti.**    
     Pastikan atap dan udara sekitar cukup kering dan aman untuk pengoperasian peralatan optik dan elektronik.
-4. Setelah memastikan kondisi **aman dan stabil**, lakukan langkah pembukaan atap seperti berikut:
+5. Setelah memastikan kondisi **aman dan stabil**, lakukan langkah pembukaan atap seperti berikut:
 	1. Buka pengunci geser atap.
 	2. Pastikan **tidak ada orang atau benda** di luar garis batas merah.
 	3. Periksa kembali bahwa teleskop sudah dalam posisi aman.
