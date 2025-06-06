@@ -86,7 +86,7 @@
 4. **Jangan langsung membuka atap setelah hujan berhenti.**    
     Pastikan atap dan udara sekitar cukup kering dan aman untuk pengoperasian peralatan optik dan elektronik.
 5. Setelah memastikan kondisi **aman dan stabil**, lakukan langkah pembukaan atap seperti berikut:
-	1. Buka pengunci geser atap.
+	1. Buka pengunci geser atap (batang L).
     
 	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753872.jpg" alt="Description" width="800"/>
 	
@@ -102,19 +102,24 @@
  	**Gambar 9.** Batas garis merah sebelah timur (kiri) dan barat (kanan).
 
    	3. Periksa kembali bahwa teleskop sudah dalam posisi aman.
-	4. Geser rumah ke arah **selatan** hingga tanda merah segaris.
-	5. Kunci kembali posisi atap setelah terbuka penuh.
+	4. Geser atap ke arah **selatan** hingga tanda merah segaris.
 
-    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753906.jpg" alt="Description" width="400"/>
+    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749194438152.jpg" alt="Description" width="400"/>
 	
- 	**Gambar 10.** Kondisi rumah yang telah terbuka dan dikunci. (Gambar belum ada)
+ 	**Gambar 10.** Tanda merah menandai batas ujung selatan pergeseran atap, berada di bagian bawah dinding sebelah barat.
+
+	5. Kunci kembali atap dengan batang L pengunci setelah terbuka penuh.
+
+    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749109497929.jpg" alt="Description" width="800"/>
+	
+ 	**Gambar 11.** Kondisi atap yang telah terbuka dan dikunci.
    
 ## **3. Menyalakan Sistem Elektronik**
 ### **a. Menyambungkan Daya**
 1. Sambungkan **UPS** (Uninterruptible Power Supply) ke sumber listrik utama.
 <img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753680.jpg" alt="Description" width="800"/>
 	
-**Gambar 11.** Menyambung kabel UPS ke sumber listrik utama, colokan berada do sebelah sumber listrik.
+**Gambar 12.** Menyambung kabel UPS ke sumber listrik utama, colokan berada do sebelah sumber listrik.
    
 2. Sambungkan kabel perangkat ke UPS sesuai label:
     - L350
@@ -122,7 +127,7 @@
     - SC4
 <img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753734.jpg" alt="Description" width="800"/>
 	
-**Gambar 12.** Menyambung kabel-kabel perangkat ke UPS.
+**Gambar 13.** Menyambung kabel-kabel perangkat ke UPS.
  
 3. Sambungkan kabel **LAN** ke komputer.
 <p float="left">
@@ -130,13 +135,13 @@
 	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753280.jpg" alt="Description" width="400"/>
 </p>
 	
-**Gambar 13.** Menyambung kabel LAN ke komputer.
+**Gambar 14.** Menyambung kabel LAN ke komputer.
  
 ### **b. Mengaktifkan Sistem**
 1. Tekan tombol power untuk menyalakan **UPS**.
 <img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753608.jpg" alt="Description" width="800"/>
 	
-**Gambar 14.** UPS menyala.
+**Gambar 15.** UPS menyala.
 
 2. Nyalakan:
     - Power EFA (Electronic Focuser Adapter)
@@ -145,11 +150,11 @@
     - Power mount
 
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753716.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753317.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749109497915.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749109497870.jpg" alt="Description" width="400"/>
 </p>
 	
-**Gambar 15.** Aduh.
+**Gambar 15.** Power EFA, Dew Heater, Pemanas kamera pengintai (kiri), dan power mount (kanan).
 
 3. Nyalakan komputer pengendali.
 ## 4. Koneksi Kendali Jarak Jauh Komputer
