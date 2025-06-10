@@ -5,7 +5,7 @@
 
 1. Buka gembok pintu rumah teleskop dengan menggunakan kunci yang berada di pos satpam, pada gantungan kunci gedung surya. Setelah pintu terbuka, kaitkan pintu agar tidak tertutup atau mengayun karena angin.
 
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/pengait-pintu.jpg" alt="Description" width="800"/>
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/kunci-pintu.png" alt="Description" width="800"/>
 
 **Gambar 1.** Kunci rumah teleskop di pos satpam (kiri) dan membuka gembok pintu rumah teleskop (kanan).
 
