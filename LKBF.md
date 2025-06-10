@@ -3,21 +3,26 @@
 ## **1. Persiapan Awal**
 ### **a. Membuka Ruangan**
 
-1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753938.jpg" alt="Description" width="800"/>
+1. Buka gembok pintu rumah teleskop dengan menggunakan kunci yang berada di pos satpam, pada gantungan kunci gedung surya. Setelah pintu terbuka, kaitkan pintu agar tidak tertutup atau mengayun karena angin.
 
-**Gambar 1.** Pengait pintu di bagian timur.
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/pengait-pintu.jpg" alt="Description" width="800"/>
+
+**Gambar 1.** Kunci rumah teleskop di pos satpam (kiri) dan membuka gembok pintu rumah teleskop (kanan).
+
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/pengait-pintu.jpg" alt="Description" width="800"/>
+
+**Gambar 2.** Pengait pintu di bagian timur.
 
 2. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
     - Amati kondisi sekitar untuk memastikan tidak ada hal yang tidak normal (bau terbakar, kabel terlepas, dll.).
 
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753392.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753262.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/atap rumah.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/dalam-rumah.jpg" alt="Description" width="400"/>
 </p>
 
-**Gambar 2.** Bagian dalam dari rumah teleskop LKBF-ITB.
+**Gambar 3.** Bagian dalam dari rumah teleskop LKBF-ITB.
 
 ### **b. Pengisian Logbook**
 1. Segera setelah tiba, isi **logbook fisik** yang tersedia di meja:
@@ -25,11 +30,11 @@
     - Nama pengguna
     - Waktu mulai aktivitas
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753560.jpg" alt="Description" height="350"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753526.jpg" alt="Description" height="350"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/buku-log.jpg" alt="Description" height="350"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/isi-log.jpg" alt="Description" height="350"/>
 </p>
 
-**Gambar 3.** Logbook (kiri) dan contoh isian logbook (kanan)
+**Gambar 4.** Logbook (kiri) dan contoh isian logbook (kanan)
 
 2. Baca entri terakhir dalam logbook:
     - Perhatikan catatan masalah sebelumnya, terutama terkait listrik atau perangkat.
@@ -45,39 +50,39 @@
     - Untuk masalah umum, catat di logbook dan kirim email ke: [m.yusuf@itb.ac.id](mailto:m.yusuf@itb.ac.id)
 ## **2. Persiapan Teleskop**
 ### **a. Membuka Penutup Teleskop**
-1. Lepaskan pengunci arah teleskop (altitude dan azimuth).
+1. Lepaskan pengunci sumbu gerak teleskop (altitude dan azimuth).
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753475.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753352.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/altitude-lock.png" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/azimuth-lock.png" alt="Description" width="400"/>
 </p>
 
-**Gambar 4.** Pengunci sumbu gerak Altitude (kiri) dan Azimuth (kanan)
+**Gambar 5.** Pengunci sumbu gerak Altitude (kiri) dan Azimuth (kanan)
 
 2. Arahkan teleskop ke posisi **aman**:
     - **Altitude: 0°**, **Azimuth: 180°** (posisi mendatar ke selatan).
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753214.jpg" alt="Description" width="800"/>
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/datar-selatan.jpg" alt="Description" width="800"/>
 
-**Gambar 5.** Posisi teleskop mendatar ke selatan.
+**Gambar 6.** Posisi teleskop mendatar ke selatan.
 
 3. Buka penutup bagian-bagian teleskop secara berurutan:
     - Cermin sekunder
     - Baffle (tabung pelindung cahaya)
     - Cermin primer
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753801.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753768.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/cover-secondary.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/tutup.png" alt="Description" width="400"/>
 </p>
 
-**Gambar 6.** Penutup cermin sekunder (kiri), baffle, dan cermin primer (kanan).
+**Gambar 7.** Penutup cermin sekunder (kiri), baffle, dan cermin primer (kanan).
 
 ### **b. Membuka Atap (Rumah Teleskop)**
 **‼ WAJIB dilakukan sebelum membuka atap:**
 1. **Cek kondisi cuaca terlebih dahulu** melalui situs cuaca lokal observatorium:
     🔗 [http://167.205.7.36](http://167.205.7.36)
 
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/ss-cuaca-bosscha.png" alt="Description" width="800"/>
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/ss-weather.png" alt="Description" width="800"/>
 
-**Gambar 7.** Tangkapan layar situs cuaca lokal observatorium Bosscha.
+**Gambar 8.** Tangkapan layar situs cuaca lokal observatorium Bosscha.
 
 2. **JANGAN membuka atap dalam kondisi berikut:**
     - **Hujan**
@@ -88,60 +93,60 @@
 5. Setelah memastikan kondisi **aman dan stabil**, lakukan langkah pembukaan atap seperti berikut:
 	1. Buka pengunci geser atap (batang L).
     
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753872.jpg" alt="Description" width="800"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/kunci-tutup.jpg" alt="Description" width="800"/>
 	
- 	**Gambar 8.** Pengunci geser atap, di bagian bawah dinding sebelah timur dekat pintu.
+ 	**Gambar 9.** Pengunci geser atap, di bagian bawah dinding sebelah timur dekat pintu.
 
 	2. Pastikan **tidak ada orang atau benda** di luar garis batas merah.
     
     	<p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753455.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753425.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/garis-merah-timur.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/garis-merah-barat.jpg" alt="Description" width="400"/>
 	</p>
 	
- 	**Gambar 9.** Batas garis merah sebelah timur (kiri) dan barat (kanan).
+ 	**Gambar 10.** Batas garis merah sebelah timur (kiri) dan barat (kanan).
 
    	3. Periksa kembali bahwa teleskop sudah dalam posisi aman.
 	4. Geser atap ke arah **selatan** hingga tanda merah segaris.
 
-    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749194438152.jpg" alt="Description" width="400"/>
+    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/kunci-buka.jpg" alt="Description" width="800"/>
 	
- 	**Gambar 10.** Tanda merah menandai batas ujung selatan pergeseran atap, berada di bagian bawah dinding sebelah barat.
+ 	**Gambar 11.** Tanda merah menandai batas ujung selatan pergeseran atap, berada di bagian bawah dinding sebelah barat.
 
 	5. Kunci kembali atap dengan batang L pengunci setelah terbuka penuh.
 
-    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749109497929.jpg" alt="Description" width="800"/>
+    	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/rumah-buka.jpg" alt="Description" width="800"/>
 	
- 	**Gambar 11.** Kondisi atap yang telah terbuka dan dikunci.
+ 	**Gambar 12.** Kondisi atap yang telah terbuka dan dikunci.
    
 ## **3. Menyalakan Sistem Elektronik**
 ### **a. Menyambungkan Daya**
 1. Sambungkan **UPS** (Uninterruptible Power Supply) ke sumber listrik utama.
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753680.jpg" alt="Description" width="800"/>
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/kabel-ups-sambung.jpg" alt="Description" width="800"/>
 	
-**Gambar 12.** Menyambung kabel UPS ke sumber listrik utama, colokan berada do sebelah sumber listrik.
+**Gambar 13.** Menyambung kabel UPS ke sumber listrik utama, colokan berada di sebelah sumber listrik.
    
 2. Sambungkan kabel perangkat ke UPS sesuai label:
-    - L350
-    - AC40404
+    - L-350
+    - AC4040
     - SC4
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753734.jpg" alt="Description" width="800"/>
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/sambung-ke-ups.jpg" alt="Description" width="800"/>
 	
-**Gambar 13.** Menyambung kabel-kabel perangkat ke UPS.
+**Gambar 14.** Menyambung kabel-kabel perangkat ke UPS.
  
 3. Sambungkan kabel **LAN** ke komputer.
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753298.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753280.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/kabel-lan.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/kabel-lan-sambung.jpg" alt="Description" width="400"/>
 </p>
 	
-**Gambar 14.** Menyambung kabel LAN ke komputer.
+**Gambar 15.** Menyambung kabel LAN ke komputer.
  
 ### **b. Mengaktifkan Sistem**
 1. Tekan tombol power untuk menyalakan **UPS**.
-<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1748936753608.jpg" alt="Description" width="800"/>
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/ups.png" alt="Description" width="800"/>
 	
-**Gambar 15.** UPS menyala.
+**Gambar 16.** UPS menyala.
 
 2. Nyalakan:
     - Power EFA (Electronic Focuser Adapter)
@@ -150,11 +155,11 @@
     - Power mount
 
 <p float="left">
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749109497915.jpg" alt="Description" width="400"/>
-	<img src="https://github.com/zak-kya/SOP-teleskop/blob/images/1749109497870.jpg" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/colok-listrik.png" alt="Description" width="400"/>
+	<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/power-mount.jpg" alt="Description" width="400"/>
 </p>
 	
-**Gambar 15.** Power EFA, Dew Heater, Pemanas kamera pengintai (kiri), dan power mount (kanan).
+**Gambar 17.** Power EFA, Dew Heater, Pemanas kamera pengintai (kiri), dan power mount (kanan).
 
 3. Nyalakan komputer pengendali.
 ## 4. Koneksi Kendali Jarak Jauh Komputer
@@ -173,6 +178,11 @@ Jika Anda perlu mengakses komputer pengendali dari jarak jauh:
 ### **a. PWI4**
 1. Buka perangkat lunak **PWI4**.
 2. Mount (teleskop), EFA, dan Dew Heater akan **terhubung secara otomatis**.
+
+<img src="https://github.com/zak-kya/SOP-teleskop/blob/main/ss-pwi4.png" alt="Description" width="800"/>
+	
+**Gambar 18.** Tangkapan layar perangkat lunak PWI4.
+
 ### **b. MaximDL6 (To be changed)**
 1. Jalankan **MaximDL6**.
 2. Hubungkan kamera ke perangkat lunak.
